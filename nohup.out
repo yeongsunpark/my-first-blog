@@ -1,0 +1,13 @@
+[24/Aug/2018 21:45:51] "GET / HTTP/1.1" 200 931
+[24/Aug/2018 21:48:31] "GET / HTTP/1.1" 200 760
+Performing system checks...
+
+System check identified no issues (0 silenced).
+August 24, 2018 - 21:45:08
+Django version 1.11.15, using settings 'mysite.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+[24/Aug/2018 21:59:26] "GET / HTTP/1.1" 200 1716
+[24/Aug/2018 21:59:32] "GET / HTTP/1.1" 200 1716
+[24/Aug/2018 21:59:41] "GET / HTTP/1.1" 200 1716
+[24/Aug/2018 22:02:10] "GET / HTTP/1.1" 200 1716
